@@ -1,0 +1,11 @@
+{
+  "name": "week-3-day-1-dom-events",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jsdom": "^22.1.0"
+  }
+}
